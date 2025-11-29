@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../MesSites"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../Applications/XAMPP/xamppfiles/htdocs/GestionContact"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS"
+	}
+}
